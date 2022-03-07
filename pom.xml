@@ -8,9 +8,9 @@
     <packaging>jar</packaging>
 
     <scm>
-        <connection>scm:git:git@github.com:Smolinec/password-generator.git</connection>
-        <url>scm:git:git@github.com:Smolinec/password-generator.git</url>
-        <developerConnection>scm:git:git@github.com:Smolinec/password-generator.git</developerConnection>
+        <connection>scm:git:https://github.com/Smolinec/password-generator.git</connection>
+        <url>scm:git:https://github.com/Smolinec/password-generator.git</url>
+        <developerConnection>scm:git:https://github.com/Smolinec/password-generator.git</developerConnection>
   </scm>
 
     <dependencies>
